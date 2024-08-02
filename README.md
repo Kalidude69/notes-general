@@ -1,6 +1,7 @@
 # Welcome to the Obsidian Notes Repository
 
-![](https://github.com/user-attachments/assets/59aedc5b-5d84-4dbf-abe7-d5c13625f5e1)
+![](https://github.com/user-attachments/assets/2c91de35-de6c-4749-a057-9faea13c1dcc)
+
 
 _Google Gemini Generated image_
 ## Overview
