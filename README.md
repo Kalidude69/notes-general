@@ -123,7 +123,7 @@ These notes are designed to be a living document. You can use them as a study gu
 
 ## Feedback and Support
 
-We value your feedback and are here to help! If you encounter any issues, have suggestions, or need assistance, please open an [issue](https://github.com/kalidude69/programming-notes-sync/issues) or contact us at kdebjoity@proton.me
+We value your feedback and are here to help! If you encounter any issues, have suggestions, or need assistance, please open an [issue](https://github.com/kalidude69/notes-general/issues) or contact us at kdebjoity@proton.me
 
 ## Acknowledgments
 
