@@ -38,7 +38,7 @@ To make the most out of this repository, you might want to install Obsidian:
 2. **Install Obsidian**: Follow the installation instructions for your own operating system.
 3. **Clone the Repository**:
     
-    `git clone git@github.com:kalidude69/obsidian-notes-repo.git`
+    `git clone git@github.com:kalidude69/notes-general.git`
     
 
 ### Opening the Vault
