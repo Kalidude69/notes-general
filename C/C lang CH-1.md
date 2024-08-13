@@ -2,7 +2,7 @@
 ## Table of Contents
 ### - [Variables](Variables.md)
 ### - [Constraints](Constraints.md)
-### - [Keywords](Keywords.md)
+### - [Keywords and Comments](Keywords%20and%20Comments.md)
 
 
 Before we start lets get on with the basics of this *boilerplate* code we write:-
@@ -23,7 +23,7 @@ int main() {
 ```c
 #include <stdio.h>
 ```
-- **Purpose:** Includes the Standard Input Output library.
+- **Purpose:** Includes the Standard Input Output library. Pre-processor Directive
 - **Explanation:** This line tells the compiler to include the standard input-output library `stdio.h`, which is necessary for using the `printf` function to output text to the console.
 
 ```c
@@ -52,7 +52,7 @@ int main() {
 
 ### Summary
 1. **`#include <stdio.h>`**: Includes necessary library for input/output functions.
-2. **`int main()`**: Starts the main function where program execution begins.
+2. **`int main() {`**: Starts the main function where program execution begins.
 3. **`printf("Hello, World!\n");`**: Prints "Hello, World!" to the console with a newline.
 4. **`return 0;`**: Ends the `main` function, returning `0` to indicate successful execution.
 5. **`}`**: Closes the `main` function.
