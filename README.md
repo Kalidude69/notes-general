@@ -1,8 +1,5 @@
 # Welcome to the Obsidian Notes Repository
 
-![](https://github.com/user-attachments/assets/59aedc5b-5d84-4dbf-abe7-d5c13625f5e1)
-
-_Google Gemini Generated image_
 ## Overview
 
 Welcome to the Obsidian Notes Repository! This repository is a collection of meticulously curated notes covering a wide array of topics primarily focused on:
@@ -57,7 +54,7 @@ We welcome contributions from everyone! Whether you are fixing a typo, adding a 
 
 1. **Fork the Repository**: Click on the "Fork" button at the top right corner of this page.
 2. **Clone Your Fork**:
-    `git clone git@github.com:kalidude69/programming-notes-sync.git`
+    `git clone git@github.com:kalidude69/notes-general.git`
     
 3. **Create a Branch**:
     `git checkout -b feature/your-feature-name`
