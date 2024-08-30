@@ -1,5 +1,5 @@
 ###### [GIT AND GITHUB ](https://www.youtube.com/watch?v=q8EevlEpQ2A&t=9s)
-###### [C LANGUAGE](https://www.youtube.com/watch?v=aZb0iu4uGwA&t=2246s)
+###### [C LANGUAGE](https://youtu.be/irqbmMNs2Bo)
 ###### [PYTHON ](https://www.youtube.com/watch?v=ERCMXc8x7mc&t=968s)
 ###### [RUST (MOSTLY READ DOCUMENTATION AND SELF-LEARN)](https://www.rust-lang.org/learn/get-started)
 ###### [JAVA SCRIPT ](https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW)
