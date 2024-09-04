@@ -1,4 +1,5 @@
-{
+
+```{
   "workbench.colorCustomizations": null,
   "workbench.colorTheme": "Catppuccin Mocha",
   "window.menuBarVisibility": "toggle",
